@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/andromedas/","tags":["papercut","level0","#gamedev","#raigon-story"],"created":"2025-06-02T09:19:35.059-04:00","updated":"2025-11-18T13:33:19.435-05:00"}
+{"dg-publish":true,"permalink":"/1-rough-notes/andromedas/","tags":["papercut","level0","#gamedev","#raigon-story"],"created":"2025-06-02T09:19:35.059-04:00","updated":"2025-11-18T13:51:29.490-05:00"}
 ---
+
+
 
 The main bad guy for my game [[4-Other/Game Development/RAIGON/README\|Raigon]]. I wanted to pull inspiration from "Andross", but I went down a rabbit hole of what that might actually be referring to.
 
@@ -17,7 +19,13 @@ Straight from the Wiki:
 
 It stems from the word "Andromeda". 
 
-Here's the wiki article:
-https://en.wikipedia.org/wiki/Andromeda_(mythology)
 
 I think that I want to investigate further now. 
+
+## Citations:
+***
+
+| Wikipedia                                                               | https://en.wikipedia.org/wiki/Andromeda_(mythology)                 |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| The legend of Perseus; a study of tradition in story, custom and belief | https://archive.org/details/legendofperseuss01hart/page/n5/mode/2up |
+|                                                                         |                                                                     |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/andromedas/","tags":["papercut","level0","#gamedev","#starmada-story"],"created":"2025-06-02T09:19:35.059-04:00","updated":"2025-11-18T11:49:52.734-05:00"}
+{"dg-publish":true,"permalink":"/1-rough-notes/andromedas/","tags":["papercut","level0","#gamedev","#raigon-story"],"created":"2025-06-02T09:19:35.059-04:00","updated":"2025-11-18T12:00:24.409-05:00"}
 ---
 
 The main bad guy for my game [[4-Other/Game Development/RAIGON/README\|Raigon]]. I wanted to pull inspiration from "Andross", but I went down a rabbit hole of what that might actually be referring to.

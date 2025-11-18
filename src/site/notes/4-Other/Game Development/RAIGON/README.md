@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/4-other/game-development/raigon/readme/","created":"2025-06-02T09:19:34.924-04:00","updated":"2025-11-18T11:56:44.001-05:00"}
+{"dg-publish":true,"permalink":"/4-other/game-development/raigon/readme/","created":"2025-06-02T09:19:34.924-04:00","updated":"2025-11-18T12:01:15.244-05:00"}
 ---
 
 
 I don't know if I will ever make this repo public, but to whom it may concern:
 
 This game is inspired by the StarFox series -- in particular, StarFox assault.
- particular, StarFox assault. This README is more a collections of thoughts and design choices along the way. 
+
+This README is more a collections of thoughts and design choices along the way. 
 
 
 ### My Backstory:

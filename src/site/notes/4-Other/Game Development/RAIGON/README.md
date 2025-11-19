@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-other/game-development/raigon/readme/","created":"2025-06-02T09:19:34.924-04:00","updated":"2025-11-18T12:01:15.244-05:00"}
+{"dg-publish":true,"permalink":"/4-other/game-development/raigon/readme/"}
 ---
 
 

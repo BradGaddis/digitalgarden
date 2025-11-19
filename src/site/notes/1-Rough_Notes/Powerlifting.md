@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/powerlifting/","tags":["level0"],"created":"2025-11-18T13:35:37.751-05:00","updated":"2025-11-18T19:09:48.835-05:00"}
+{"dg-publish":true,"permalink":"/1-rough-notes/powerlifting/","tags":["level0"],"created":"2025-11-18T13:35:37.751-05:00","updated":"2025-11-18T19:15:14.688-05:00"}
 ---
+
+
+## Cold Showers
+***
+Something about inflammation #TODO
+
+***
 
 
 Activate the slow-twitch muscles first? I haven't watched this fully yet

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/powerlifting/","tags":["level0"],"created":"2025-11-18T13:35:37.751-05:00","updated":"2025-11-18T19:02:04.082-05:00"}
+{"dg-publish":true,"permalink":"/1-rough-notes/powerlifting/","tags":["level0"],"created":"2025-11-18T13:35:37.751-05:00","updated":"2025-11-18T19:09:48.835-05:00"}
 ---
 
 
-Activate the slow-twitch muscles first? 
+Activate the slow-twitch muscles first? I haven't watched this fully yet
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XgqtSjb8slk?si=A29gGxRJM2TbG6lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

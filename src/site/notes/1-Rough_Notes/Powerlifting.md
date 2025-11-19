@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/powerlifting/","tags":["level0"],"created":"2025-11-18T13:35:37.751-05:00","updated":"2025-11-18T15:29:44.000-05:00"}
+{"dg-publish":true,"permalink":"/1-rough-notes/powerlifting/","tags":["level0"],"created":"2025-11-18T13:35:37.751-05:00","updated":"2025-11-18T19:02:04.082-05:00"}
 ---
 
 

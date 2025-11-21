@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-other/game-development/raigon/readme/"}
+{"dg-publish":true,"permalink":"/4-other/game-development/raigon/readme/","created":"2025-06-02T09:19:34.924-04:00","updated":"2025-11-21T08:57:04.000-05:00"}
 ---
 
 
@@ -135,6 +135,11 @@ This document is a work in progress. I am kind of just making stuff up as I go a
 
 ***
 ***
+## Known Bugs To Fix
+- [ ] Exiting over state (removing the jetpack) breaks the idle animation. Is it getting stuck entering?  ⏳ 2025-11-21
+- [ ] Move state can get stuck when colliding with a ledge
+
+
 
 # References
 ***

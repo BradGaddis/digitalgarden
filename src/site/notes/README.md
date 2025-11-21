@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2025-04-25T19:27:00.049-04:00","updated":"2025-11-20T12:48:13.568-05:00"}
 ---
 
 
@@ -13,6 +13,7 @@ If you wish to follow me and learn what I have learned, you are more than welcom
 
 Projects I am currently working on:
 [[4-Other/Game Development/RAIGON/README\|Raigon]]
+
 
 ---
 

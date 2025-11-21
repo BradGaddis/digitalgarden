@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/visual-learning/","tags":["level0"]}
+{"dg-publish":true,"permalink":"/1-rough-notes/visual-learning/","tags":["level0"],"created":"2025-11-18T18:55:43.751-05:00","updated":"2025-11-19T13:02:04.387-05:00"}
 ---
 
 

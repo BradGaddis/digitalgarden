@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/andromedas/","tags":["papercut","level0","#gamedev","#raigon-story"]}
+{"dg-publish":true,"permalink":"/1-rough-notes/andromedas/","tags":["papercut","level0","#gamedev","#raigon-story"],"created":"2025-06-02T09:19:35.059-04:00","updated":"2025-11-18T13:51:29.490-05:00"}
 ---
 
 
